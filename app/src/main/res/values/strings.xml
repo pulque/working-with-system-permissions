@@ -1,0 +1,60 @@
+<!--
+  ~ Copyright 2016 Li Zhe <pulqueli@gmail.com>
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Working with System Permissions</string>
+
+    <string name="permission_denied">Permission denied.</string>
+    <string name="success">Got it.</string>
+    <string name="result">Result</string>
+    <string name="ok">OK</string>
+    <string name="request_all_permissions">Request All Permissions.</string>
+
+    <!--CALENDAR-->
+    <string name="read_calendar">Read Calendar</string>
+    <string name="write_calendar">Write Calendar</string>
+    <!--CAMERA-->
+    <string name="camera">Camera</string>
+    <!--CONTACTS-->
+    <string name="read_contacts">Read Contacts</string>
+    <string name="write_contacts">Write Contacts</string>
+    <string name="get_accounts">Get Accounts</string>
+    <!--LOCATION-->
+    <string name="access_fine_location">Access Fine Location</string>
+    <string name="access_coarse_location">Access Coarse Location</string>
+    <!--MICROPHONE-->
+    <string name="record_audio">Record Audio</string>
+    <!--PHONE-->
+    <string name="read_phone_state">Read Phone State</string>
+    <string name="call_phone">Call Phone</string>
+    <string name="read_call_log">Read Call Log</string>
+    <string name="write_call_log">Write Call Log</string>
+    <string name="add_voicemail">Add Voice Mail</string>
+    <string name="use_sip">Use Sip</string>
+    <string name="process_outgoing_calls">Process Outgoing Calls</string>
+    <!--SENSORS-->
+    <string name="body_sensors">Body Sensors</string>
+    <!--SMS-->
+    <string name="send_sms">Send SMS</string>
+    <string name="receive_sms">Receive SMS</string>
+    <string name="read_sms">Read SMS</string>
+    <string name="receive_wap_push">Receive Wap Push</string>
+    <string name="receive_mms">Receive MMS</string>
+    <!--STORAGE-->
+    <string name="read_external_storage">Read External Storage</string>
+    <string name="write_external_storage">Write External Storage</string>
+
+</resources>
