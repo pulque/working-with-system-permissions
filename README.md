@@ -3,8 +3,8 @@ Android 6.0+ Permissions Demo.
 Request permissions for app.
 
 Directions: 
-<a target="_blank" href="https://github.com/pulque/working-with-system-permissions">
-https://github.com/pulque/working-with-system-permissions</a></p>
+<a target="_blank" href="http://lizheblogs.com/all/code/2016/05/23/working-with-system-permissions.html">
+http://lizheblogs.com/all/code/2016/05/23/working-with-system-permissions.html</a></p>
 
 ## License
 
