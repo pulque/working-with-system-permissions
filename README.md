@@ -2,6 +2,10 @@
 Android 6.0+ Permissions Demo. 
 Request permissions for app.
 
+Directions: 
+<a target="_blank" href="https://developer.android.com/training/permissions/index.html">
+https://developer.android.com/training/permissions/index.html</a></p>
+
 ## License
 
     Copyright 2016 Li Zhe <pulqueli@gmail.com>

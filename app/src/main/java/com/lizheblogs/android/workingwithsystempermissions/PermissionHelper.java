@@ -40,7 +40,6 @@ public class PermissionHelper {
     private int[] tags;
 
     public PermissionHelper() {
-//        requestCode = Math.abs(this.hashCode());
         permissionsNeeded = new ArrayList<String>();
         permissionsList = new ArrayList<String>();
     }
